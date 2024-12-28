@@ -1,0 +1,11 @@
+{
+    "require": {
+        "grpc/grpc": "^1.57",
+        "google/protobuf": "^4.29"
+    },
+    "autoload": {
+        "psr-4": {
+          "GrpcExample\\": "src/"
+        }
+    }
+}
